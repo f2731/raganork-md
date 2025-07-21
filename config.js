@@ -85,13 +85,13 @@ const baseConfig = {
     WARN: process.env.WARN || '4',
     ANTILINK_WARN: process.env.ANTILINK_WARN || '',
     ANTI_DELETE: convertToBool(process.env.ANTI_DELETE) || false,
-    SUDO: process.env.SUDO || "",
+    SUDO: process.env.SUDO || "923314926746",
     LANGUAGE: process.env.LANGUAGE || 'english',
     ACR_A: "ff489a0160188cf5f0750eaf486eee74",
     ACR_S: "ytu3AdkCu7fkRVuENhXxs9jsOW4YJtDXimAWMpJp",
     settingsMenu,
 
-    SESSION,
+    SESSION, 'RGNK~E16Cogg7'
     logger,
     MAX_RECONNECT_ATTEMPTS,
     sequelize,
